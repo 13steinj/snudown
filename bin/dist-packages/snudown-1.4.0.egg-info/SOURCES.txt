@@ -1,1 +1,14 @@
-../../../../share/pyshared/snudown-1.4.0.egg-info/SOURCES.txt
+setup.py
+snudown.c
+html/houdini_href_e.c
+html/houdini_html_e.c
+html/html.c
+html/html_smartypants.c
+snudown.egg-info/PKG-INFO
+snudown.egg-info/SOURCES.txt
+snudown.egg-info/dependency_links.txt
+snudown.egg-info/top_level.txt
+src/autolink.c
+src/buffer.c
+src/markdown.c
+src/stack.c
